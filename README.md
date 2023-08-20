@@ -8,7 +8,7 @@ Chinese Version
 
 小组成员签名：Austin Lee（u7551070） Haotian Liang（u7588736） Zhuokun Chen（u7588775） Yulin Zheng（u7588674）
 
-English Version
+*English Version
 The first group meeting took place during the tutorial on August 11th. During this discussion, we mainly clarified the issue that our group should address, with a primary focus on solving urban transportation problems. This meeting was chaired by Austin, with Haotian, ZhuoKun, and YuLin in attendance. Each group member expressed their views on the meeting. Overall, there was a general consensus on the main topic. In this meeting, tasks were assigned to each member, directing them to choose literature and data related to their area of interest, analyze and summarize, and then present their findings in the next tutorial. They will also choose 1 to 2 topics for a more detailed discussion.
 
 Group members signatures:
@@ -25,7 +25,7 @@ Chinese Version
 
 小组成员签名：Austin Lee（u7551070） Haotian Liang（u7588736） Zhuokun Chen（u7588775） Yulin Zheng（u7588674）
 
-English Version
+*English Version
 The second group assignment mainly determined how we should present our project, whether through programming or simulation. This issue will continue to be discussed in the next group meeting. However, our group believes that the simulation method might be more feasible because all of us have a background in statistics. Using a quantitative approach to implement our solution would be more intuitive and concrete. We chose the subtopic of an intelligent road management system.
 One of the more mature solutions our group has considered involves using the BP neural network method, harnessing big data and machine learning to optimize this system. For instance, we might use the road usage during peak morning hours as the dependent variable. Safety conditions, traffic light passage at intersections, and the probability of accidents occurring on the road would be the independent variables. We aim to study the relationship between these dependent and independent variables, and also to research the weight of each independent variable's impact on the dependent variable. Additionally, using machine learning, we would have AI identify the most influential independent variables. This approach would greatly avoid the limitations of human linear thinking. As an example, a road accident can directly reflect the condition of the road, such as congestion. However, while an accident is a significant statistical factor, through hundreds or thousands of machine simulations, it might be discovered that the unreasonable timing of pedestrian traffic lights leading to jaywalking could be another major reason for low road usage. This is something that pure statistical analysis might miss.
 However, we are still considering the possibility of using the Difference-in-Differences (DiD) analytical method. In the coming week, we will further evaluate the feasibility of both methods. Therefore, this week's task is to find as much data as possible to lay the foundation for subsequent model selection and to deepen our understanding of these models.
