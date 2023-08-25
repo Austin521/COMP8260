@@ -36,3 +36,10 @@ Haotian Liang (u7588736)
 Zhuokun Chen (u7588775)
 Yulin Zheng (u7588674)
 
+2023.8.25 Third Meeting
+
+Chinese Version 讨论结果，看论文（https://www.act.gov.au/__data/assets/pdf_file/0015/2201244/2023-EA_App-D_Traffic-and-Transport-Impact-Assessment.pdf），主要是第4部分，详细研究那三个模型。讨论结果是，我们先选择中国城市特定区域的交通情况，比如北京，通过网络资源收集初始数据和标准数据。收集初始数据建模解决问题，用统计学（多元线性回归）和机器学习的方法，发现模型中影响最严重的变量。并且利用标准数据（即对变量进行调整后的优化数据）进行验证。然后，把中国的模型放到堪培拉地区中，利用CSTM模型，对其中的参数或变量进行一定的修改优化，然后利用CSTM模型的结果来证明我们模型的准确。这其中，我们又一个关键点来验证，同时，也要关注一些其它的方面来验证我们的模型不光是只在一方面好而是多方面好。
+
+English Version Discussion Results: Refer to the paper [https://www.act.gov.au/__data/assets/pdf_file/0015/2201244/2023-EA_App-D_Traffic-and-Transport-Impact-Assessment.pdf], primarily the fourth section, for a detailed study of the three models. Our discussion concluded with the decision to first focus on the traffic situation in specific regions of Chinese cities, such as Beijing. We collected initial and standard data via online resources. The initial data was used for modeling and problem-solving, employing statistical methods (multivariate linear regression) and machine learning techniques. This allowed us to identify the most severely impacting variables within the model. We then validated the model using the standard data, which are optimized data with adjustments made to the variables. Subsequently, we applied our Chinese model to the Canberra region, adjusting parameters or variables within the CSTM model for optimization. We then used the results from the CSTM model to validate the accuracy of our model. Within this process, we had a key point of validation. At the same time, we focused on several other aspects to ensure that our model is not only good in one area but excels in multiple dimensions.
+
+Group members signatures: Austin Lee (u7551070) Haotian Liang (u7588736) Zhuokun Chen (u7588775) Yulin Zheng (u7588674)
